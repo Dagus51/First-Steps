@@ -7,4 +7,4 @@ for i in range(pass_length):
 
     password += chr(random.randint(33,126))
 
-print(password)
+print('Your password is: ' + password)
