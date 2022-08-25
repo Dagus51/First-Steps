@@ -1,7 +1,6 @@
 import random
 
-pass_length = input('Choose length of your new password: ')
-pass_length = int(pass_length)
+pass_length = int(input('Choose length of your new password: '))
 password = ""
 
 for i in range(pass_length):
